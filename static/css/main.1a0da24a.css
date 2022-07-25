@@ -1,0 +1,2 @@
+body{background-color:azure;margin:0}.header{position:fixed;transition:-webkit-transform .5s linear;transition:transform .5s linear;transition:transform .5s linear,-webkit-transform .5s linear;width:100%}.header.hide{-webkit-transform:translateY(-64px);transform:translateY(-64px)}
+/*# sourceMappingURL=main.1a0da24a.css.map*/
