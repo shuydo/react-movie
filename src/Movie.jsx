@@ -77,7 +77,7 @@ export default function Movie() {
           </div>
           <hr />
 
-          <p>Addidional information</p>
+          <p>Additional information</p>
           <Suspense fallback={<h1>Loading addInfo...</h1>}>
             <ul className="addInf">
               <li>
