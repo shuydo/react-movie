@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color: azure;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+
+  transition: transform 500ms linear;
+}
+
+.header.hide {
+  transform: translateY(-64px);
+}
